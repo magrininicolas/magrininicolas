@@ -29,6 +29,6 @@
   </a>
 </div>
 <br>
-- 🌱 Studying Java and SpringBoot
+- 🌱 Studying Java, TypeScript and Golang
 - 📫 Contact me: magrininicolas@outlook.com or twitter
 - 😄 Pronouns: he/him
