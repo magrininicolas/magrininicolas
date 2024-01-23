@@ -11,9 +11,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> -
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> -
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"> -
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> -
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" > -
-
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
 </div>
 <br>
@@ -29,6 +27,7 @@
   </a>
 </div>
 <br>
-- 🌱 Studying Java, TypeScript and Golang
+- 🌱 Studying Java and Golang
+- 🧪 Testing Elixir
 - 📫 Contact me: magrininicolas@outlook.com or twitter
 - 😄 Pronouns: he/him
