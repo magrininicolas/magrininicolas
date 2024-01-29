@@ -29,6 +29,6 @@
 </div>
 <br>
 - 🌱 Studying Java and Golang
-- 🧪 Testing Elixir
+- 🧪 Testing Elixir and Rust
 - 📫 Contact me: magrininicolas@outlook.com or twitter
 - 😄 Pronouns: he/him
