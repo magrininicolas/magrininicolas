@@ -28,6 +28,4 @@
 </div>
 <br>
 - 🌱 Studying Java and Golang
-- 🧪 Testing Elixir
 - 📫 Contact me: magrininicolas@outlook.com or twitter
-- 😄 Pronouns: he/him
