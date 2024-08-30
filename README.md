@@ -30,5 +30,4 @@
 - 🌱 Studying Java and Golang
 - 📫 Contact me: magrininicolas@outlook.com or twitter
 
-- My Gopher
-<img align="center" height="40" width="50" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/4d66fbd48372cd6a466964a6dd80694bb2a38bed.png" />
+- My Gopher <img align="center" height="400" width="300" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/4d66fbd48372cd6a466964a6dd80694bb2a38bed.png" />
