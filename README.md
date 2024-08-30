@@ -29,5 +29,6 @@
 <br>
 - 🌱 Studying Java and Golang
 - 📫 Contact me: magrininicolas@outlook.com or twitter
-
-<img align="center" height="500" width="400" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/b7f9d74b3233514070c188363945e58547ac1d9a.png" />
+<div style="display: inline_block">
+  <img align="center" height="500" width="400" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/b7f9d74b3233514070c188363945e58547ac1d9a.png" />
+</div>
