@@ -1,4 +1,4 @@
-## Hi! I'm Nicolas Gustavo
+## Hey! I'm Nicolas Pereira
 <br>
 <div>
   <a href="https://beacons.ai/nicolasmagrini">
