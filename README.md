@@ -1,7 +1,6 @@
 ## Hey! I'm Nicolas Pereira
 <br>
 <div>
-  <a href="https://beacons.ai/nicolasmagrini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magrininicolas&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magrininicolas&show_icons=true&theme=tokyonight&layout=compact">
 </div>
