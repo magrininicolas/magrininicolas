@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a>
   <a href="https://x.com/magrininicolas">
-    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter?url=magrininicolas&style=flat&logo=X">
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/?url=magrininicolas&style=flat&logo=X">
   </a>
   <a href="https://www.instagram.com/nicolas_magrini/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
