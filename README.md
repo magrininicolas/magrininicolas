@@ -1,8 +1,8 @@
 ## Hey! I'm Nicolas Pereira
 <br>
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magrininicolas&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magrininicolas&show_icons=true&theme=tokyonight&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasgmp&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgmp&show_icons=true&theme=tokyonight&layout=compact">
 </div>
 <br>
 <div style="display: inline_block">
